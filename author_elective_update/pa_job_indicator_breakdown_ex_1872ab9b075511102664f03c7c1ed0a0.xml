@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicator_breakdown_ex">
+    <pa_job_indicator_breakdown_ex action="DELETE">
+        <breakdown display_value="NeedIt Request type">4341a31b075511102664f03c7c1ed09d</breakdown>
+        <job_indicator display_value="temporary job for collecting Analytics Owner - NeedIt: Due Monthly">98726757075511102664f03c7c1ed00b</job_indicator>
+        <sys_class_name>pa_job_indicator_breakdown_ex</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-19 14:02:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1872ab9b075511102664f03c7c1ed0a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Request type.temporary job for collecting Analytics Owner - NeedIt: Due Monthly</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_job_indicator_breakdown_ex_1872ab9b075511102664f03c7c1ed0a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-19 14:02:17</sys_updated_on>
+    </pa_job_indicator_breakdown_ex>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>a3e8f9c3dbf2d700cbf6d5b0cf961950</instance_id>
+        <instance_name>dev62532</instance_name>
+        <name>pa_job_indicator_breakdown_ex_1872ab9b075511102664f03c7c1ed0a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicator_breakdown_ex"><pa_job_indicator_breakdown_ex action="INSERT_OR_UPDATE"><breakdown display_value="NeedIt Request type">4341a31b075511102664f03c7c1ed09d</breakdown><job_indicator display_value="temporary job for collecting Analytics Owner - NeedIt: Due Monthly">98726757075511102664f03c7c1ed00b</job_indicator><sys_class_name>pa_job_indicator_breakdown_ex</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-19 14:02:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1872ab9b075511102664f03c7c1ed0a0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Request type.temporary job for collecting Analytics Owner - NeedIt: Due Monthly</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_job_indicator_breakdown_ex_1872ab9b075511102664f03c7c1ed0a0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-19 14:02:17</sys_updated_on></pa_job_indicator_breakdown_ex></record_update>]]></payload>
+        <payload_hash>77284214</payload_hash>
+        <record_name>98726757075511102664f03c7c1ed00b</record_name>
+        <reverted_from/>
+        <source>71654a0f071511102664f03c7c1ed077</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-19 14:02:18</sys_created_on>
+        <sys_id>9c72ab9b075511102664f03c7c1ed0a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182b6696a590000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-19 14:02:18</sys_updated_on>
+        <type>Job Indicator Breakdown exclusions</type>
+        <update_guid>d472ab9b465511100e6e671832eebda2</update_guid>
+        <update_guid_history>d472ab9b465511100e6e671832eebda2:77284214</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="temporary job for collecting Analytics Owner - NeedIt: Due Monthly">fd0377db079511102664f03c7c1ed0f0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-19 15:14:46</sys_created_on>
+        <sys_db_object display_value="" name="pa_job_indicator_breakdown_ex">pa_job_indicator_breakdown_ex</sys_db_object>
+        <sys_id>04b6eaba231d446895ef56022851efd9</sys_id>
+        <sys_metadata>1872ab9b075511102664f03c7c1ed0a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Request type.temporary job for collecting Analytics Owner - NeedIt: Due Monthly</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_job_indicator_breakdown_ex_1872ab9b075511102664f03c7c1ed0a0</sys_update_name>
+        <sys_update_version display_value="pa_job_indicator_breakdown_ex_1872ab9b075511102664f03c7c1ed0a0">9c72ab9b075511102664f03c7c1ed0a2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-19 15:14:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
